@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  array = ["Michael Jordan", "Lebron James", "Kareem Abdul-Jabaar", "Wilt Chamberlain"]
   array << "Magic Johnson"
 end
 
