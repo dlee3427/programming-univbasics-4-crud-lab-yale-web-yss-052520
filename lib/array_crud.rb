@@ -14,10 +14,11 @@ end
 
 def add_element_to_start_of_array(array, element)
   array = ["Michael Jordan", "Lebron James", "Kareem Abdul-Jabaar", "Wilt Chamberlain"]
+  array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  
+
 end
 
 def remove_element_from_start_of_array(array)
