@@ -13,9 +13,9 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  array = ["Michael Jordan", "Lebron James", "Kareem Abdul-Jabaar", "Wilt Chamberlain"]
-  element = "arrays!"
-  array.unshift(element)
+  array = ["I", "am", "really", "learning"]
+  element = "wow"
+  array.unshift('wow')
 end
 
 def remove_element_from_end_of_array(array)
