@@ -18,7 +18,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array = ["Michael Jordan", "Lebron James", "Kareem Abdul-Jabaar", "Wilt Chamberlain", "wow"]
+  array = ["arrays!", "Lebron James", "Kareem Abdul-Jabaar", "Wilt Chamberlain", "wow"]
   magic_johnson = array.shift
 end
 
